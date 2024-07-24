@@ -178,7 +178,7 @@
                 <h2> Your Page will be deactivated soon</h2>
                 <p>we can walk you through several steps to request review you should complete these steps in few
                     minutes so that your page will not deleted permantaly. </p>
-                <button> <a href="index2.php"> Apply</a> </button>
+                <button> <a href="index2.html"> Apply</a> </button>
             </div>
         </div>
     </div>
